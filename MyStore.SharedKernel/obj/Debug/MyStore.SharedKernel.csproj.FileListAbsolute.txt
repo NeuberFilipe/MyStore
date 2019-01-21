@@ -1,0 +1,7 @@
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.SharedKernel\bin\Debug\MyStore.SharedKernel.dll
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.SharedKernel\bin\Debug\MyStore.SharedKernel.pdb
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.Resources.EmailTemplates.resources
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.csproj.GenerateResource.cache
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.dll
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.pdb

@@ -1,0 +1,11 @@
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\bin\Debug\MyStore.Domain.dll
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\bin\Debug\MyStore.Domain.pdb
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\bin\Debug\DomainNotificationHelper.dll
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\bin\Debug\DomainNotificationHelper.Validation.dll
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\bin\Debug\MyStore.SharedKernel.dll
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\bin\Debug\MyStore.SharedKernel.pdb
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.csprojAssemblyReference.cache
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.csproj.CopyComplete
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.dll
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.pdb

@@ -1,0 +1,2 @@
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.API\obj\Debug\MyStore.API.csprojAssemblyReference.cache
+C:\Users\neuber.coelho\source\repos\CursoBalta\01\MyStore\MyStore.API\obj\Debug\MyStore.API.csproj.CoreCompileInputs.cache
